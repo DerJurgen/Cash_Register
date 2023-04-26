@@ -1,0 +1,17 @@
+C:\Users\Jyriy\source\repos\Cash Register\bin\Debug\net6.0-windows\Cash Register.exe
+C:\Users\Jyriy\source\repos\Cash Register\bin\Debug\net6.0-windows\Cash Register.deps.json
+C:\Users\Jyriy\source\repos\Cash Register\bin\Debug\net6.0-windows\Cash Register.runtimeconfig.json
+C:\Users\Jyriy\source\repos\Cash Register\bin\Debug\net6.0-windows\Cash Register.dll
+C:\Users\Jyriy\source\repos\Cash Register\bin\Debug\net6.0-windows\Cash Register.pdb
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\Cash Register.csproj.AssemblyReference.cache
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\Cash_Register.Form1.resources
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\Cash Register.csproj.GenerateResource.cache
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\Cash Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\Cash Register.AssemblyInfoInputs.cache
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\Cash Register.AssemblyInfo.cs
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\Cash Register.csproj.CoreCompileInputs.cache
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\Cash Register.dll
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\refint\Cash Register.dll
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\Cash Register.pdb
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\Cash Register.genruntimeconfig.cache
+C:\Users\Jyriy\source\repos\Cash Register\obj\Debug\net6.0-windows\ref\Cash Register.dll
